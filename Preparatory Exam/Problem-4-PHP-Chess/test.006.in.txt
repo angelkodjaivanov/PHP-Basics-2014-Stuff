@@ -1,0 +1,1 @@
+board=P-H-B-K-R-B-R-R%2FP-P-+-P-P-+-P-P%2F+-+-P-+-+-P-Q-Q%2F+-+-H-K-+-P-H-B%2F+-+-+-H-+-+-K-+%2F+-P-+-+-K-+-+-H%2FP-+-Q-P-Q-P-B-Q%2FR-H-B-K-Q-B-B-B

@@ -1,0 +1,1 @@
+text=Warning%3A+Our+encryption+is+unbreakable+and+you+will+not+be+able+to+decrypt+your+information!&hashValue=1&fontSize=30&fontStyle=bold
